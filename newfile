@@ -1,0 +1,15 @@
+muth 09/29/2016
+
+This is a new file I added on Tori's project.
+
+Steps:
+
+1. create private a fork on Tori's project.
+2. pull private fork to my Mac
+    'git clone https://github.com/johnmuth81/vision.git'
+
+3. Create new file locally.
+   vi newfile
+   git add newfile
+   git commit -a
+
