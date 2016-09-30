@@ -13,3 +13,6 @@ Steps:
    git add newfile
    git commit -a
 
+== Test an update ==
+This line is an update. I cloned straight from Tori's master on this 
+one.
